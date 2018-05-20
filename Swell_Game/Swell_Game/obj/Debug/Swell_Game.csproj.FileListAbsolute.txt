@@ -1,0 +1,11 @@
+F:\Users\Mr_healman\Desktop\MRH Inc\Swell_Game\Swell_Game\bin\Debug\Swell_Game.exe.config
+F:\Users\Mr_healman\Desktop\MRH Inc\Swell_Game\Swell_Game\bin\Debug\Swell_Game.exe
+F:\Users\Mr_healman\Desktop\MRH Inc\Swell_Game\Swell_Game\bin\Debug\Swell_Game.pdb
+F:\Users\Mr_healman\Desktop\MRH Inc\Swell_Game\Swell_Game\obj\Debug\Swell_Game.csprojResolveAssemblyReference.cache
+F:\Users\Mr_healman\Desktop\MRH Inc\Swell_Game\Swell_Game\obj\Debug\Swell_Game.Properties.Resources.resources
+F:\Users\Mr_healman\Desktop\MRH Inc\Swell_Game\Swell_Game\obj\Debug\Swell_Game.csproj.GenerateResource.Cache
+F:\Users\Mr_healman\Desktop\MRH Inc\Swell_Game\Swell_Game\obj\Debug\Swell_Game.csproj.CoreCompileInputs.cache
+F:\Users\Mr_healman\Desktop\MRH Inc\Swell_Game\Swell_Game\obj\Debug\Swell_Game.exe
+F:\Users\Mr_healman\Desktop\MRH Inc\Swell_Game\Swell_Game\obj\Debug\Swell_Game.pdb
+F:\Users\Mr_healman\Desktop\MRH Inc\Swell_Game\Swell_Game\obj\Debug\Swell_Game.Menu.resources
+F:\Users\Mr_healman\Desktop\MRH Inc\Swell_Game\Swell_Game\obj\Debug\Swell_Game.level1.resources
