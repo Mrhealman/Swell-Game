@@ -328,3 +328,7 @@ ASALocalRun/
 
 # MFractors (Xamarin productivity tool) working folder 
 .mfractor/
+
+git rm -r --cached Swell Game
+git commit -m "Removed folder from repository"
+git push origin master
